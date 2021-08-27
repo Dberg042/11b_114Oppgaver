@@ -7,6 +7,6 @@ Inholde;
 * Hjemmeby
 * Fødselår
 
-Navn skulle være **bold** og <h2> strølse
+Navn skulle være **bold** og **h2** strølse
 Hjemmeby og fødselår kan være *italic*
 
