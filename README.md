@@ -30,3 +30,6 @@ Skisse nr2
 
 Begrunnelser
 Ovenfor ser man to enkle desgin over hvordan produktet kan se ut. På den ene skissa har kortene bilde, og i tillegg plass til navn og annen info. På den andre skissen er valg av oppsett annerledes, og kanskje mer effektiv på enheter hvor man uansett må "scrolle" for å se alle medlemmene. Vi valgte å ha forskjellige farger på kortene slik at det er enklere å skille mellom hver av dem.
+
+Vi har laget *index.html* for å vise final product og publisert på githup pages.
+https://dberg042.github.io/11b_114Oppgaver/
